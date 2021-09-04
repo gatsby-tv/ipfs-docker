@@ -1,4 +1,4 @@
-FROM ipfs/go-ipfs:v0.8.0
+FROM ipfs/go-ipfs:v0.9.1
 
 COPY container_daemon /usr/local/bin/start_ipfs
 
